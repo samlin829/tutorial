@@ -1,2 +1,3 @@
 Monkey  Git command
 add register change into index
+pull retrieve the content in the remote repository
