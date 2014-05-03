@@ -1,2 +1,3 @@
 Monkey  Git command
 add register change into index
+commit record the index status
